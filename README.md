@@ -28,4 +28,4 @@ XSS SCANNER USAGE
     
 WHOIS USAGE
 
-    python3 main.py -whois <url>
+    python3 main.py --whois <url>
