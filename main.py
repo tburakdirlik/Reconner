@@ -24,7 +24,7 @@ def banner ():
     print(colored("######################################################################################################################",'yellow'))
     print(colored("#                                                   USER GUIDE                                                       #",'yellow'))
     print(colored("#    WHOIS USAGE                                                                                                     #",'yellow'))
-    print(colored("#        python3 main.py -whois <url>                                                                                #",'yellow'))
+    print(colored("#        python3 main.py --whois <url>                                                                                #",'yellow'))
     print(colored("#    PORT SCANNER USAGE                                                                                              #",'yellow'))
     print(colored("#        python3 main.py -t <target> -p <port>                                                                       #",'yellow'))
     print(colored("#        python3 main.py -t <target> -P <port1, port2>                                                               #",'yellow'))
