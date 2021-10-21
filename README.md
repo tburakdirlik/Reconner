@@ -29,3 +29,5 @@ XSS SCANNER USAGE
 WHOIS USAGE
 
     python3 main.py --whois <url>
+    
+All files are in the Recon_Scanner directory as a rar file 
