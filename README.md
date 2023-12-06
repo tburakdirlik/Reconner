@@ -43,14 +43,14 @@ Upgrade your IPy
 
 Examples
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/10.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/1.png)
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/20.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/2.png)
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/30.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/3.png)
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/40.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/4.png)
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/50.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/5.png)
 
-![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/60.png)
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/6.png)
