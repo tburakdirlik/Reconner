@@ -40,3 +40,5 @@ if you encounter an errpr like this
 Upgrade your IPy 
 
     pip install --upgrade IPy
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/10.png)
