@@ -29,5 +29,20 @@ XSS SCANNER USAGE
 WHOIS USAGE
 
     python3 main.py --whois <url>
+
+if you encounter with this error 
+
+└─# python main.py --domain facebook.com --wordList subdomains.txt --thread 100 --protocol https 
+Traceback (most recent call last):
+  File "/home/kali/reconner/Reconner/main.py", line 4, in <module>
+    from IPy import IP
+  File "/usr/local/lib/python3.11/dist-packages/IPy.py", line 1025, in <module>
+    class IPSet(collections.MutableSet):
+                ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: module 'collections' has no attribute 'MutableSet'
+                                                                                                                                                                                                                                            
+upgrade your IPy like this 
+pip install --upgrade IPy
+
     
 All files are in the Recon_Scanner directory as a rar file 
