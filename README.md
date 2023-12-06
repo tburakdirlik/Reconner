@@ -41,4 +41,16 @@ Upgrade your IPy
 
     pip install --upgrade IPy
 
+Examples
+
 ![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/10.png)
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/20.png)
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/30.png)
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/40.png)
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/50.png)
+
+![Alt text](https://github.com/tburakdirlik/Reconner/blob/main/bin/60.png)
