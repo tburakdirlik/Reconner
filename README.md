@@ -26,18 +26,7 @@ WHOIS USAGE
 
     python3 main.py --whois <url>
 
-if you encounter an errpr like this  
-
-    └─# python main.py --domain facebook.com --wordList subdomains.txt --thread 100 --protocol https 
-    Traceback (most recent call last):
-      File "/home/kali/reconner/Reconner/main.py", line 4, in <module>
-        from IPy import IP
-      File "/usr/local/lib/python3.11/dist-packages/IPy.py", line 1025, in <module>
-        class IPSet(collections.MutableSet):
-                ^^^^^^^^^^^^^^^^^^^^^^
-    AttributeError: module 'collections' has no attribute 'MutableSet'
-                                                                                                                                                                                                                                            
-Upgrade your IPy 
+if you encounter an error related to IPy upgrade your IPy 
 
     pip install --upgrade IPy
 
