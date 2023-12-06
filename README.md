@@ -1,10 +1,6 @@
 REQUIREMENTS
 
-    pip install colorama
-    pip install IPy
-    pip install requests
-    pip install bs4
-    pip install python-whois
+    pip install -r requirements.txt
 
 PORT SCANNER USAGE
     
@@ -30,7 +26,7 @@ WHOIS USAGE
 
     python3 main.py --whois <url>
 
-if you encounter with this error 
+if you encounter an errpr like this  
 
     └─# python main.py --domain facebook.com --wordList subdomains.txt --thread 100 --protocol https 
     Traceback (most recent call last):
@@ -41,8 +37,6 @@ if you encounter with this error
                 ^^^^^^^^^^^^^^^^^^^^^^
     AttributeError: module 'collections' has no attribute 'MutableSet'
                                                                                                                                                                                                                                             
-Upgrade your IPy like this 
-    pip install --upgrade IPy
+Upgrade your IPy 
 
-    
-All files are in the Recon_Scanner directory as a rar file 
+    pip install --upgrade IPy
